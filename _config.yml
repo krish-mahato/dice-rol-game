@@ -1,3 +1,5 @@
 exclude:
   - node_modules
   - client/node_modules
+  - README.md   # optional, if it causes encoding issues
+encoding: "UTF-8"
